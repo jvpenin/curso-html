@@ -70,7 +70,6 @@ section.imagem {
     box-shadow: inset 6px 6px 12px 0px rgba(0, 0, 0, 0.301);
     background-attachment: fixed;
     background-position: right center;
-
 }
 section.imagem > p{
     display: inline-block;
@@ -79,7 +78,6 @@ section.imagem > p{
     color: white;
     padding: 10px;
     text-shadow: 1px 1px 0px black;
-    
 }
 
 section#imagem-flor {
